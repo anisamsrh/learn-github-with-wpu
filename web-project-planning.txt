@@ -1,0 +1,16 @@
+Planning for Simple Web Project
+
+Description
+A Website for Advertising Batik Clothing
+
+Fitur
+- Product Review
+  - Product Images
+  - Product Description
+  - Pricing
+- Seller Info
+  - Social Media
+  - Name Seller
+  - Short Description about Seller
+- Buying Information
+  - Paying Methods

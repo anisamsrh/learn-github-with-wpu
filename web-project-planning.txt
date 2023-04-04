@@ -8,11 +8,16 @@ Fitur
   - Product Images
   - Product Description
   - Pricing
-- Seller Information
+- Seller About
   - Social Media
-  - Seller Name and Description
-- Buying Information
+  - Name Seller
+  - Short Description about Seller
+- Buying and Delivering Information
   - Paying Methods
-    - Virtual Account
-    - Dana
-    - Transfer
+      - BRI
+      - BNI
+      - BCA
+
+Software Requirement
+- React.js
+- Bootstrap

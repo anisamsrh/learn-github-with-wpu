@@ -1,4 +1,5 @@
-My Resolution (wishes to do) This Month
+My Resolution This Year
 1. Learning Git and GitHub
 2. Make A Simple Web Project
 3. Writing A Simple Article About Programming for Active Learning 
+4. Starting Personal Project about Language Learning App

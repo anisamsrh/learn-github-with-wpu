@@ -1,0 +1,4 @@
+My Resolution (wishes to do) This Month
+1. Learning Git and GitHub
+2. Make A Simple Web Project
+3. Writing A Simple Article About Programming for Active Learning 

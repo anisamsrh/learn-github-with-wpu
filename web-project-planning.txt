@@ -8,10 +8,9 @@ Fitur
   - Product Images
   - Product Description
   - Pricing
-- Seller Info
+- Seller Information
   - Social Media
-  - Name Seller
-  - Short Description about Seller
+  - Seller Name and Description
 - Buying Information
   - Paying Methods
     - Virtual Account

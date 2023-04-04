@@ -14,3 +14,7 @@ Fitur
   - Short Description about Seller
 - Buying Information
   - Paying Methods
+
+Software Requirement
+- React.js
+- Bootstrap
